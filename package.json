@@ -2,5 +2,9 @@
   "name": "prismaroto",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.10.0",
+    "prisma": "^3.10.0"
+  }
 }
